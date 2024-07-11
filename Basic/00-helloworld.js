@@ -3,7 +3,7 @@
 /*
 Esto es
 un comentario
-en varios lineas
+en varias lineas
 */
 
 console.log("Hola, JavaScript")
