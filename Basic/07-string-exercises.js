@@ -4,23 +4,22 @@ Tipos de datos, operadores y strings
 https://www.twitch.tv/videos/2200149072?t=00h08m02s
 */
 
-// 1. Crea una variable para cada operación aritmética
+// 1. Concatena dos cadenas de texto
 
-// 2. Crea una variable para cada tipo de operación de asignación,
-//    que haga uso de las variables utilizadas para las operaciones aritméticas
+// 2. Muestra la longitud de una cadena de texto
 
-// 3. Imprime 5 comparaciones verdades con diferentes operadores de comparación
+// 3. Muestra el primer y último carácter de un string
 
-// 4. Imprime 5 comparaciones falsas con diferentes operadores de comparación
+// 4. Convierte a mayúsculas y minúsculas un string
 
-// 5. Utiliza el operador lógico and
+// 5. Crea una cadena de texto en varias líneas
 
-// 6. Utiliza el operador lógico or
+// 6. Interpola el valor de una variable en un string
 
-// 7. Combina ambos operadores lógicos
+// 7. Reemplaza todos los espacios en blanco de un string por guiones
 
-// 8. Añade alguna negación
+// 8. Comprueba si una cadena de texto contiene una palabra concreta
 
-// 9. Utiliza el operador ternario
+// 9. Comprueba si dos strings son iguales
 
-// 10. Combina operadores aritméticos, de comparáción y lógicas
+// 10. Comprueba si dos strings tienen la misma longitud
