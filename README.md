@@ -1,7 +1,7 @@
 # Aprendiendo JavaScript
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]
-[![Node.js](https://img.shields.io/badge/NodeJS-V20%2B-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]
+[![Node.js](https://img.shields.io/badge/NodeJS-V20%2B-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)](https://nodejs.org/en)
 
 Aprendiendo a programar en JavaScript desde cero, este curso lo estoy tomando por directos de twitch por mouredev
 
