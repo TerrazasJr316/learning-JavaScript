@@ -97,6 +97,22 @@ let myValueBigInt = false
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
+const friend = "Angel Israel Berny Jaimes"
+
+const angelAge = 19
+const angelHeigth = 1.75
+
+const isGirl = false
+const isBoy =  true
+
+const unknown
+
+const accoount = null
+
+const hisSymbol = Symbol("Tiene iPhone 13")
+
+const hisBigInt = 10972365763753823867693083268323742313069338
+
 // 9. A continuación, modifica los valores de las constantes
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
